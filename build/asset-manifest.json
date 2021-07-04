@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KamilQadeer/todo_react.git/static/css/main.855a11a9.chunk.css",
+    "main.js": "/KamilQadeer/todo_react.git/static/js/main.26c271c4.chunk.js",
+    "main.js.map": "/KamilQadeer/todo_react.git/static/js/main.26c271c4.chunk.js.map",
+    "runtime-main.js": "/KamilQadeer/todo_react.git/static/js/runtime-main.87af6563.js",
+    "runtime-main.js.map": "/KamilQadeer/todo_react.git/static/js/runtime-main.87af6563.js.map",
+    "static/js/2.326094fb.chunk.js": "/KamilQadeer/todo_react.git/static/js/2.326094fb.chunk.js",
+    "static/js/2.326094fb.chunk.js.map": "/KamilQadeer/todo_react.git/static/js/2.326094fb.chunk.js.map",
+    "index.html": "/KamilQadeer/todo_react.git/index.html",
+    "precache-manifest.d2878830ee10189ffec3e54d18ea4cb9.js": "/KamilQadeer/todo_react.git/precache-manifest.d2878830ee10189ffec3e54d18ea4cb9.js",
+    "service-worker.js": "/KamilQadeer/todo_react.git/service-worker.js",
+    "static/css/main.855a11a9.chunk.css.map": "/KamilQadeer/todo_react.git/static/css/main.855a11a9.chunk.css.map",
+    "static/js/2.326094fb.chunk.js.LICENSE.txt": "/KamilQadeer/todo_react.git/static/js/2.326094fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87af6563.js",
+    "static/js/2.326094fb.chunk.js",
+    "static/css/main.855a11a9.chunk.css",
+    "static/js/main.26c271c4.chunk.js"
+  ]
+}
